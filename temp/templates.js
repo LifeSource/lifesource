@@ -1,0 +1,1 @@
+angular.module("app.core").run(["$templateCache", function($templateCache) {$templateCache.put("app/app.html","<template><div class=site-container><header><h1>lifesource</h1></header><router-view></router-view><footer>&copy; Yeoman Generated Footer</footer></div></template>");}]);
