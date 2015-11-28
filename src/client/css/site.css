@@ -3,5 +3,18 @@
   max-width: 1200px;
 }
 body {
-  font-family: Roboto, arial, sans-serif;
+  font-weight: 300;
+  font-family: "Open Sans", arial, sans-serif;
+}
+.row {
+  margin-bottom: 1.6%;
+}
+h3,
+h4,
+h5 {
+  margin: 10px auto;
+  vertical-align: bottom;
+}
+.details {
+  text-align: center;
 }
