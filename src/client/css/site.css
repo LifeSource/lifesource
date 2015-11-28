@@ -15,6 +15,10 @@ h5 {
   margin: 10px auto;
   vertical-align: bottom;
 }
+.summary {
+  padding: 0 25px;
+  text-align: justify;
+}
 .details {
   text-align: center;
 }
